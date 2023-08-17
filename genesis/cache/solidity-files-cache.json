@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Dai_Hoc\\Lap_trinh_du_lieu_2\\DO_AN\\BAO_CAO_CK\\genesis\\src\\contracts\\Genesis.sol": {
+      "lastModificationDate": 1681370692934,
+      "contentHash": "5534347ea4d1ba3f8222362b0856728b",
+      "sourceName": "src/contracts/Genesis.sol",
+      "solcConfig": {
+        "version": "0.8.11",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "Genesis"
+      ]
+    }
+  }
+}
